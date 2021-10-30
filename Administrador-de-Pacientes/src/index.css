@@ -1,0 +1,36 @@
+body {
+  font-family: "Chelsea Market";
+  background-image: linear-gradient(150deg, rgb(226, 108, 226) 0%, rgb(129, 129, 224) 50%, red 100%)
+}
+
+h1, h3, label {
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+
+h4 {
+  color: red;
+}
+
+.citas {
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  background-color: white;
+  padding: 30px 30px 10px 30px;
+  line-height: 10px;
+  margin-top: 40px;
+}
+
+.cita {
+  color: black;
+}
+
+button {
+  background-color: rgb(238, 135, 135);
+  text-transform: capitalize;
+}

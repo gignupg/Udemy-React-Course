@@ -1,0 +1,68 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(135deg, #F7FFF7, #4ECDC4 60%);
+  font-family: 'Merienda';
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-weight: 100;
+  font-size: 55px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+h4 {
+  padding-bottom: 30px;
+}
+.box {
+  background-color: white;
+  border-radius: 20px;
+  text-align: center;
+}
+.box-inside {
+  padding: 20px 40px 30px 40px;
+  margin: 0 20px 0 20px;
+}
+input {
+  margin-bottom: 30px;
+}
+.error {
+  color: red;
+}
+label {
+  text-align: left;
+}
+.gasto {
+  margin-bottom: 40px;
+}
+.list-nombre {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid rgb(214, 214, 214);
+}
+.list-cantidad {
+  background-color: rgba(26, 83, 92, 0.836);
+  padding: 4px 16px 4px 16px;
+  color: white;
+}
+.presupuesto {
+  text-align: left;
+  background-color: rgb(215, 223, 215);
+  padding: 6px;
+}
+.semaforo-turquesa {
+  text-align: left;
+  background-color: #4ECDC4;
+  padding: 6px;
+}
+.semaforo-amarillo {
+  text-align: left;
+  background-color: #FFE66D;
+  padding: 6px;
+}
+.semaforo-rojo {
+  text-align: left;
+  background-color: #FF6B6B;
+  padding: 6px;
+}

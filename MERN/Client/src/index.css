@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+button:hover, button:focus {
+  outline: none;
+}
+
+@media screen and (max-width: 992px) {
+  .align-task-title {
+    text-align: center;
+  }
+}
+
+.complete {
+  background-color: rgb(213, 255, 196);
+}
+
+.incomplete {
+  background-color: #ffc9cb;
+}

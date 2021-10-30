@@ -1,0 +1,102 @@
+h2 {
+  text-align: center;
+}
+
+h3 {
+  margin: 10px 25px;
+}
+
+input {
+  margin: 10px 25px;
+  height: 40px;
+}
+
+thead {
+  background-color: #78c2ad;
+  color: white;
+}
+
+.header-box {
+  height: 78px;
+  background-color: #78c2ad;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.title {
+  margin-left: 28px;
+  vertical-align: middle;
+  color: rgb(245, 245, 245);
+}
+
+.title:hover {
+  cursor: pointer;
+}
+
+.header-button {
+  margin-right: 16px;
+  height: 58px;
+  background-color: #ff7851;
+  color: white;
+  font-size: 24px;
+  font-weight: 700;
+  border-radius: 10px;
+  border: 0;
+  box-shadow: 3px 3px 5px black;
+}
+
+.table-heading {
+  margin: 40px 0 20px 0;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.table {
+  border-spacing: 15px;
+}
+
+.table-button {
+  border: none;
+  border-radius: 3px;
+  border: 0;
+  box-shadow: 2px 2px 3px black;
+  font-weight: 700;
+  padding: 3px 10px 3px 10px;
+}
+
+.edit {
+  background-color: #78c2ad;
+  color: white;
+  margin-right: 5px;
+}
+
+.delete {
+  background-color:#ff7851;
+  color: rgb(245, 245, 245);
+}
+
+.card {
+  border: solid 1px black;
+  margin: 10% 20% 10% 20%;
+}
+
+.product-title {
+  margin: 20px 0 20px 0;
+  font-weight: 700;
+}
+
+.submit-button {
+  margin: 10px 25px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: #78c2ad;
+  border: none;
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+}

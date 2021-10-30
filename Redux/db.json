@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 18,
+      "name": "ni de coña",
+      "price": 234
+    },
+    {
+      "id": 20,
+      "name": "vivimos en esta pinche piedra flotante",
+      "price": 10
+    },
+    {
+      "name": "archi chere",
+      "price": 999999,
+      "id": 23
+    },
+    {
+      "name": "si",
+      "price": 123,
+      "id": 24
+    },
+    {
+      "name": "Ferrari",
+      "price": 98,
+      "id": 25
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 26
+    }
+  ]
+}
