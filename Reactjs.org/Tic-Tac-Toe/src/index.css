@@ -1,0 +1,34 @@
+
+.box {
+    margin: 0.5px;
+    padding: 0;
+    width: 70px;
+    height: 70px;
+    border: solid 1px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.row {
+    display: flex;
+}
+
+.box:focus  {
+    outline: 1px solid red;
+}
+#everything {
+    display: flex;
+}
+#status {
+    margin-left: 55px;
+}
+#history {
+    margin: 15px 0 0 100px;
+}
+ol {
+    list-style: none;
+    margin-left: -45px;
+}
