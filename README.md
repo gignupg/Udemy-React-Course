@@ -1,2 +1,1 @@
-# Udemy-React-Course
-Projects that I've recreated from Juan Pablo's 40 hour React Course
+More information about each project can be found in the readme of each project!
